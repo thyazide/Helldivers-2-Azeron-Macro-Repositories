@@ -3,7 +3,6 @@
 
 I've created macro stables for all the stratagems 
 currently in the game as of 3/2025. The stratagem menu needs to be manually opened while the macros play. I've had a myriad of issues attempting to make them all automatic. Time permitting I'll try to keep them updated. 
-
 ## Updates
 
 1. Corrected inconsistencies in timing for various stratagems. 
@@ -11,6 +10,21 @@ currently in the game as of 3/2025. The stratagem menu needs to be manually open
 3. Timing issues and problems with the stratagem menu in game closing before the macro sequence is finished forced my hand. I have removed that bit of the automation, and added individual delays between all key presses. Everything should work properly now. You will need a dedicated stratagem key to make the macros function. I use the press/hold to keep the menu open, and release to exit. Everything should work now. 
 4. Moved button 13 to button 22 on the support weapons profile. Now each macro ports between Cyborg and Cyro properly, button 13 doesn't exist on the Cyro. So this was necessary to get everything working for both devices. 
 
+## How to use 
+
+Taken and reformatted from the [Azeron software user manual.](https://cdn.shopify.com/s/files/1/0930/2386/3123/files/Azeron_Cyborg_II_Manual_V1_5_4-3_1642644f-e002-4121-8560-6cde7ed84c65.pdf?v=1744695206)
+
+Profile import / export
+
+```
+To export profiles all at once, go to software Settings, find “Import/Export” section and choose Export profiles or Import profiles. The profiles in On-board memory will not be exported, only software profiles.
+
+To export only one profile, right click on the profile name and choose “Copy to Clipboard”. It will save a string of text in your clipboard. You can paste this string in the chat to share with other people or save in Notepad for later use.
+
+If you wish to publish your profile in Discord chat, instead of pressing the Copy button press the Discord button, so that it prepares the string specifically for Discord chat.
+
+You can import the single profile by copying its text string and clicking on at the bottom of the profile list.
+```
 ## Backpacks
 
 ```
