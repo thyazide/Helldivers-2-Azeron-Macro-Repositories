@@ -16,7 +16,6 @@ Taken and reformatted from the [Azeron software user manual.](https://cdn.shopif
 
 Profile import / export
 
-```
 To export profiles all at once, go to software Settings, find “Import/Export” section and choose Export profiles or Import profiles. The profiles in On-board memory will not be exported, only software profiles.
 
 To export only one profile, right click on the profile name and choose “Copy to Clipboard”. It will save a string of text in your clipboard. You can paste this string in the chat to share with other people or save in Notepad for later use.
@@ -24,7 +23,7 @@ To export only one profile, right click on the profile name and choose “Copy t
 If you wish to publish your profile in Discord chat, instead of pressing the Copy button press the Discord button, so that it prepares the string specifically for Discord chat.
 
 You can import the single profile by copying its text string and clicking on at the bottom of the profile list.
-```
+
 ## Backpacks
 
 ```
