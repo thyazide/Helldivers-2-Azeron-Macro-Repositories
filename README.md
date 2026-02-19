@@ -14,7 +14,7 @@ currently in the game as of 3/2025. The stratagem menu needs to be manually open
 
 Taken and reformatted from the [Azeron software user manual.](https://cdn.shopify.com/s/files/1/0930/2386/3123/files/Azeron_Cyborg_II_Manual_V1_5_4-3_1642644f-e002-4121-8560-6cde7ed84c65.pdf?v=1744695206)
 
-Profile import / export
+**Profile import / export**
 
 To export profiles all at once, go to software Settings, find “Import/Export” section and choose Export profiles or Import profiles. The profiles in On-board memory will not be exported, only software profiles.
 
