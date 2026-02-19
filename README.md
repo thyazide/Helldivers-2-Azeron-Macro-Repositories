@@ -1,17 +1,15 @@
 
-# Azeron helldivers 2 macros
+# Azeron Helldivers 2 Macros
 
 I've created macro stables for all the stratagems 
-currently in the game. The stratagem menu needs to be manually opened while the macros play. I've had a myriad of issues attempting to make them all automatic. Time permitting I'll try to keep them updated. 
+currently in the game as of 3/2025. The stratagem menu needs to be manually opened while the macros play. I've had a myriad of issues attempting to make them all automatic. Time permitting I'll try to keep them updated. 
 
---Edit 1
-Corrected inconsistencies in timing for various stratagems. 
---Edit 2
-Now that I'm actually able to get around to testing things in game, it seems that I need to figure out timing. For some reason the macros are playing, but not finishing the sequence before the stratagem button is being released. Guess I need to dig into documentation about the macro system. 
---Edit 3
-Timing issues and problems with the stratagem menu in game closing before the macro sequence is finished forced my hand. I have removed that bit of the automation, and added individual delays between all keypresses. Everything should work properly now. But you will need a stratagem dedicated key to make the macros function. I use the press/hold to keep the menu open, and release to exit personally.  Enjoy. Everything should work now. 
---Edit 4
-Moved button 13 to button 22 on the support weapons profile. Now each macro ports between Cyborg and Cyro properly, button 13 doesn't exist on the Cyro. So this was necessary to get everything working for both devices. 
+## Updates
+
+1. Corrected inconsistencies in timing for various stratagems. 
+2. Now that I'm actually able to get around to testing things in game, it seems that I need to figure out timing. For some reason the macros are playing, but not finishing the sequence before the stratagem button is being released. Guess I need to dig into documentation about the macro system. 
+3. Timing issues and problems with the stratagem menu in game closing before the macro sequence is finished forced my hand. I have removed that bit of the automation, and added individual delays between all key presses. Everything should work properly now. You will need a dedicated stratagem key to make the macros function. I use the press/hold to keep the menu open, and release to exit. Everything should work now. 
+4. Moved button 13 to button 22 on the support weapons profile. Now each macro ports between Cyborg and Cyro properly, button 13 doesn't exist on the Cyro. So this was necessary to get everything working for both devices. 
 
 ## Backpacks
 
